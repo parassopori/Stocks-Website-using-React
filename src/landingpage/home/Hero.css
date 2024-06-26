@@ -1,0 +1,23 @@
+/* Hero.css */
+.container {
+    width: 100%;
+    height:auto; /* Full viewport height */
+    
+    
+    overflow: hidden; /* Hide any overflow */
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+
+  
+  .landing-img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the container */
+    padding:30px 220px 30px 220px;
+    
+  }
+  
