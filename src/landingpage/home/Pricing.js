@@ -16,7 +16,7 @@ function Pricing() {
                 <div className='row'>
                     <div className='col border p-3 text-center'>
                      <h1>₹0</h1>
-                     <p>Free equity delivery and direct mutual funds</p>
+                     <p>Free equity delivery and direct mutual funds.</p>
                     </div>
                     <div className='col border  p-3 text-center'>
                     <h1>₹20</h1>

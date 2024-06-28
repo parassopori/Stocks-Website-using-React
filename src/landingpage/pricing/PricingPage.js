@@ -2,6 +2,7 @@ import React from 'react'
 import Hero from './Hero';
 import OpenAccount from '../OpenAccount';
 import Brokerage from './Brokerage';
+import Broker from './Broker';
 
 function PricingPage() {
     return ( 
@@ -10,6 +11,7 @@ function PricingPage() {
     <Hero />
     <Brokerage />
     <OpenAccount />
+    <Broker />
   
     </>
     );

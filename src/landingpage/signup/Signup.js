@@ -2,7 +2,12 @@ import React from 'react'
 
 function SignUp() {
     return ( 
-    <h1>SignUp</h1>
+        <div className='container'>
+        <div className='row'>
+            
+
+        </div>
+    </div>
  );
 }
 

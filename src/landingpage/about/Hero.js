@@ -4,7 +4,7 @@ function Hero() {
   return (
     <div className="container">
       <div className="row">
-        <h1 className="text-center mt-5 p-2 p-lg-5 fs-2">
+        <h1 className="text-center mt-5 p-2 p-lg-5 fs-2 fw-normal">
           We pioneered the discount broking model in India.
           <br />
           Now, we are breaking ground with our technology.

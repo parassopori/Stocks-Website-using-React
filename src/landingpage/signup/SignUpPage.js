@@ -4,7 +4,8 @@ import SignUp from './Signup';
 import OpenAccount from '../OpenAccount';
 
 function SignUpPage() {
-    return ( <>
+    return (
+         <>
        
         <SignUp />
         <OpenAccount />
